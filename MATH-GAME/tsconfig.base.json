@@ -65,10 +65,10 @@
      
     "watch": true
   },
-  
+/*  
 "files": [
   "app/app.ts"
 ]
-
+*/
 
 }
